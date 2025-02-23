@@ -1,17 +1,37 @@
 ## Hi there 👋
-![Version](https://img.shields.io/badge/version-25.12.2022-blue)
+![Version](https://img.shields.io/badge/version-23.02.2025-blue)
 ![Followers](https://img.shields.io/github/followers/fauzulichwan?style=social)
 
-- 🎓 I'm currently learning at **Hasanuddin University**
-- 🚀 I'm currently learning **NextJS**
-- 💬 I like to talk about **Code and Algorithm**
-- 📸 Ask me anything on my **Instagram**
-- 💼 Connect with me on **LinkedIn**
-
-## 📈 FauzulIchwan's GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzulichwan&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzulichwan&layout=compact&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fauzulichwan&theme=dark)](https://git.io/streak-stats)
+<table>
+<tr>
+  <td align="left">
+    <br>- 🎓 I'm currently learning at <b>Hasanuddin University</b>
+    <br>- 🚀 I'm currently learning <b>Machine Learning</b>
+    <br>- 💬 I like to talk about Code and Algorithm
+    <br>- 📸 Ask me anything on my <b>Instagram</b>
+    <br>- 💼 Connect with me on <b>LinkedIn</b>
+  </td>
+  <td align="right">
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api?username=fauzulichwan&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" alt="Github Stats" align="right"/>
+    </a>
+  </td>
+</tr>
+</table>
+<table>
+  <tr>
+    <td align="left">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzulichwan&theme=dark" alt="Top Langs" align="right"/>
+      </a>
+    </td>
+    <td align="right">
+      <a href="#">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzulichwan&theme=dark)](https://git.io/streak-stats" alt="Github Streak" align="right"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Connect with Me!
 [![Email](https://img.shields.io/badge/Email-ichwanowen%40gmail.com-red?style=for-the-badge)](mailto:ichwanowen@gmail.com)
