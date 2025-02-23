@@ -13,7 +13,7 @@
   </td>
   <td align="right">
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=fauzulichwan&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" alt="Github Stats" align="right"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=fauzulichwan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Github Stats" align="right"/>
     </a>
   </td>
 </tr>
@@ -22,12 +22,12 @@
   <tr>
     <td align="left">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzulichwan&theme=dark" alt="Top Langs" align="right"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzulichwan&theme=react&border_color=61dafb&hide_border=true" alt="Top Langs" align="right"/>
       </a>
     </td>
     <td align="right">
       <a href="#">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzulichwan&theme=dark)](https://git.io/streak-stats" alt="Github Streak" align="right"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzulichwan&theme=react&border_color=61dafb&hide_border=true)](https://git.io/streak-stats" alt="Github Streak" align="right"/>
       </a>
     </td>
   </tr>
