@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Version](https://img.shields.io/badge/version-25.12.2022-blue)
-![Followers](https://img.shields.io/github/followers/darulikhsan?style=social)
+![Followers](https://img.shields.io/github/followers/fauzulichwan?style=social)
 
 - 🎓 I'm currently learning at **Hasanuddin University**
 - 🚀 I'm currently learning **NextJS**
