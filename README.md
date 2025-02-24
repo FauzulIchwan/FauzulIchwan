@@ -48,12 +48,13 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif?cid=6c09b952c66e3blnr5qjlua0uz3c8071jmnxvx7t242q9k0c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+<img align="center" height="150" src="https://media4.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif?cid=6c09b952c66e3blnr5qjlua0uz3c8071jmnxvx7t242q9k0c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FauzulIchwan/FauzulIchwan/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/FauzulIchwan/FauzulIchwan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###
