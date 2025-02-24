@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fauzul</h1>
-<h3 align="center">A passionate frontend web developer from Indonesia</h3>
+<h1 align="left">Hi 👋, I'm Fauzul</h1>
+<h3 align="left">A passionate frontend web developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **AI & Machine Learning**
 
@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
