@@ -1,54 +1,22 @@
-## Hi there 👋
-![Version](https://img.shields.io/badge/version-23.02.2025-blue)
-![Followers](https://img.shields.io/github/followers/fauzulichwan?style=social)
+<h1 align="center">Hi 👋, I'm Fauzul</h1>
+<h3 align="center">A passionate frontend web developer from Indonesia</h3>
 
-<table>
-<tr>
-  <td align="left">
-    <br>- 🎓 I'm currently learning at <b>Hasanuddin University</b>
-    <br>- 🚀 I'm currently learning <b>Machine Learning</b>
-    <br>- 💬 I like to talk about Code and Algorithm
-    <br>- 📸 Ask me anything on my <b>Instagram</b>
-    <br>- 💼 Connect with me on <b>LinkedIn</b>
-  </td>
-  <td align="right">
-    <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=fauzulichwan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Github Stats" align="right"/>
-    </a>
-  </td>
-</tr>
-</table>
-<table>
-  <tr>
-    <td align="left">
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzulichwan&theme=react&border_color=61dafb&hide_border=true" alt="Top Langs" align="right"/>
-      </a>
-    </td>
-    <td align="right">
-      <a href="#">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzulichwan&theme=react&border_color=61dafb&hide_border=true)](https://git.io/streak-stats" alt="Github Streak" align="right"/>
-      </a>
-    </td>
-  </tr>
-</table>
+- 🌱 I’m currently learning **AI & Machine Learning**
 
-## 🤝 Connect with Me!
-[![Email](https://img.shields.io/badge/Email-ichwanowen%40gmail.com-red?style=for-the-badge)](mailto:ichwanowen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/muhammad-fauzul-ichwan-3651a520a/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge)](https://www.instagram.com/fauzulichwan07/)
+- 💬 Ask me about **React & Laravel**
 
-<!--
-**FauzulIchwan/FauzulIchwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **Ichwanowen@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/fauzulichwan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fauzulichwan07" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzulichwan&show_icons=true&theme=tokyonight&title_color=00ffff&text_color=ffffff&locale=en&layout=compact" alt="fauzulichwan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzulichwan&show_icons=true&theme=tokyonight&title_color=00ffff&text_color=ffffff&locale=en" alt="fauzulichwan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauzulichwan&theme=dark" alt="fauzulichwan" /></p>
