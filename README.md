@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/fauzulichwan07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -47,8 +47,9 @@
 </div>
 
 ###
-
-<img align="center" height="150" src="https://media4.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif?cid=6c09b952c66e3blnr5qjlua0uz3c8071jmnxvx7t242q9k0c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img align="center" height="150" src="https://media4.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif?cid=6c09b952c66e3blnr5qjlua0uz3c8071jmnxvx7t242q9k0c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
