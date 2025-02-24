@@ -1,7 +1,8 @@
-<h1 align="left">Hi 👋, I'm Fauzul</h1>
-<h3 align="left">A passionate frontend web developer from Indonesia</h3>
-
-- 🌱 I’m currently learning **AI & Machine Learning**
+<h1 align="center">Hi 👋, I'm Fauzul</h1>
+<h3 align="center">A passionate frontend web developer from Indonesia</h3>
+<div align="center">
+🌱 I’m currently learning **AI & Machine Learning**
+</div>
 
 ###
 
